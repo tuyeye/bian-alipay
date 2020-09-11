@@ -23,9 +23,7 @@
 ### 支付宝支付原理
 
 <p align="center">
-  <a href="https://ant.design">
-    <img width="200" src="./ali.png">
-  </a>
+<img width="100%" src="./ali.png">
 </p>
 
 ### 彼岸花支付原理
