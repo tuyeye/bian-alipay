@@ -53,7 +53,7 @@
 
 **请求 url**
 
-`http://api.sanqi.us/pay/TradePagePay`
+`http://api.sanqii.cn/pay/TradePagePay`
 
 **请求方法**
 
