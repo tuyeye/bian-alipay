@@ -4,7 +4,7 @@
 
 ### 使用条件
 
-- 拥有 AppId 和 Key（点击此处自助申请：http://www.sanqii.cn/alipay/request）;
+- 拥有 AppId 和 Key（点击此处自助申请：http://www.sanqii.cn/alipay/request ）;
 - 没有企业支付宝；
 
 - 依赖在线支付回调能力以实现后续的业务逻辑；
